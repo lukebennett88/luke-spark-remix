@@ -9,9 +9,20 @@
     "dev": "remix dev"
   },
   "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.9.0",
+    "@emotion/server": "^11.4.0",
     "@remix-run/node": "^1.4.3",
     "@remix-run/react": "^1.4.3",
     "@remix-run/vercel": "^1.4.3",
+    "@spark-web/core": "^1.0.3",
+    "@spark-web/heading": "^1.0.3",
+    "@spark-web/link": "^1.0.3",
+    "@spark-web/ssr": "^1.0.2",
+    "@spark-web/stack": "^1.0.3",
+    "@spark-web/text": "^1.0.3",
+    "@spark-web/text-link": "^1.0.3",
+    "@spark-web/text-list": "^1.0.3",
     "@vercel/node": "^1.14.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
